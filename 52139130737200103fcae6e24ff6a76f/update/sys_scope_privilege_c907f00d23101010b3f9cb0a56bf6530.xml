@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="Financial Services Operations Core">52139130737200103fcae6e24ff6a76f</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-19 00:00:00</sys_created_on>
+        <sys_id>c907f00d23101010b3f9cb0a56bf6530</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Glide API: properties</sys_name>
+        <sys_package display_value="Financial Services Operations Core" source="sn_bom">52139130737200103fcae6e24ff6a76f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Financial Services Operations Core">52139130737200103fcae6e24ff6a76f</sys_scope>
+        <sys_update_name>sys_scope_privilege_c907f00d23101010b3f9cb0a56bf6530</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-19 00:00:00</sys_updated_on>
+        <target_name>Glide API: properties</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Financial Services Operations Core">52139130737200103fcae6e24ff6a76f</claim_owner_scope>
+        <claim_timestamp>1919d1895df0000001</claim_timestamp>
+        <metadata_update_name>sys_scope_privilege_c907f00d23101010b3f9cb0a56bf6530</metadata_update_name>
+        <previous_claim_app_version>4.0.2</previous_claim_app_version>
+        <previous_claim_name>Financial Services Operations Core</previous_claim_name>
+        <previous_claim_scope>52139130737200103fcae6e24ff6a76f</previous_claim_scope>
+        <sys_created_by>balakrishna</sys_created_by>
+        <sys_created_on>2024-08-29 07:45:19</sys_created_on>
+        <sys_id>b63e02713b50961084ac66a985e45adf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>balakrishna</sys_updated_by>
+        <sys_updated_on>2024-08-29 07:45:19</sys_updated_on>
+    </sys_claim>
+</record_update>
